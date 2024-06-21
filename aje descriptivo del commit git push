@@ -1,0 +1,36 @@
+[33mcommit 3b80281ffa3f29e6bb20f10a20f829ba90805e3c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrevisado[m[33m)[m
+Author: GeneContreras <genesis.contreras.vargas@gmail.com>
+Date:   Mon May 13 01:42:33 2024 -0400
+
+    Actualización de atributos para documentación
+
+[33mcommit e681ee5bf405e05dc91fd83ec218469e21731422[m[33m ([m[1;31morigin/revisado[m[33m)[m
+Merge: af528b0 2668b48
+Author: GeneContreras <genesis.contreras.vargas@gmail.com>
+Date:   Mon May 13 00:19:33 2024 -0400
+
+    Merge branch 'revisado' of https://github.com/GeneContreras/ferremas into revisado
+
+[33mcommit af528b0fc5bbdfc9c3406a462b97537a97c607c5[m
+Author: GeneContreras <genesis.contreras.vargas@gmail.com>
+Date:   Mon May 13 00:19:18 2024 -0400
+
+    cambio de titulo
+
+[33mcommit 2668b48fb21c33d0efb99c99ef78bcc1918683f9[m
+Author: GeneContreras <107221196+GeneContreras@users.noreply.github.com>
+Date:   Mon May 13 00:14:12 2024 -0400
+
+    Update swagger.js
+
+[33mcommit faf289ebdaaa6879d3911adfa98762bc7043f39c[m
+Author: GeneContreras <genesis.contreras.vargas@gmail.com>
+Date:   Sun May 12 22:54:40 2024 -0400
+
+    creado
+
+[33mcommit 7012ff20ef10ad0863d5a340106401f3f81b313f[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: GeneContreras <107221196+GeneContreras@users.noreply.github.com>
+Date:   Sun May 12 19:12:16 2024 -0400
+
+    Initial commit
